@@ -15,6 +15,7 @@ body{
     font-weight: 900;
     font-family: 'Josefin Sans', sans-serif;
     margin-top: 35px;
+    user-select: none;
 }
 
 .contenedordesc{
@@ -27,6 +28,7 @@ body{
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
     text-align: justify;
+    user-select: none;
 }
 
 .links{

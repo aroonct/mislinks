@@ -17,7 +17,7 @@ function Principal(props) {
       <h1 className='desc' >Programmer and activist for animal rights, always looking to bring technology closer to the world.</h1>
     </div>
       <div className='links' >
-        <a target='_blank' href='https://github.com/ever2402'><FontAwesomeIcon className='iconos' icon={faGithub} /></a>
+        <a target='_blank' href='https://github.com/kirohn24'><FontAwesomeIcon className='iconos' icon={faGithub} /></a>
         <a target='_blank' href='https://t.me/begin24'><FontAwesomeIcon className='iconos' icon={faTelegram} /></a>
         <a target='_blank' href='https://twitter.com/bigan24?t=7ybeTeZZZYahG1juvyO-Rg&s=09'><FontAwesomeIcon className='iconos' icon={faTwitter} /></a>
         <a target='_blank' href='https://kiro.vercel.app/'><FontAwesomeIcon className='iconos' icon={faGlobe} /></a>

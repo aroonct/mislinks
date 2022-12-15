@@ -52,4 +52,5 @@ body{
     -o-transform:scale(1.25);
     transform:scale(1.25);
     cursor: pointer;
+    transition: all 0.3s ease-in-out;
 }

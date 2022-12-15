@@ -12,7 +12,7 @@ function Principal(props) {
     <div className='contenedorimg' >
       <img className='imglogo' src={logo} />
     </div>
-    <h1 className='nombre' >Kiro</h1>
+    <h1 className='nombre' >*★*――κıяø――*★*</h1>
     <div className='contenedordesc' >
       <h1 className='desc' >Freelancer programmer, student, vegan and animalist, I am Pansexual and gender fluid, fighting for animal rights and the LGBT community...</h1>
     </div>

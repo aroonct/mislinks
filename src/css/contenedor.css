@@ -11,7 +11,7 @@ body{
 
 .nombre{
     text-align: center;
-    color: white;
+    color: #ca6364;
     font-weight: 900;
     font-family: 'Josefin Sans', sans-serif;
     margin-top: 35px;
@@ -40,7 +40,7 @@ body{
 }
 
 .iconos{
-    color: white;
+    color: #ca6364;
     font-size: 40px;
     display: flex;
 }

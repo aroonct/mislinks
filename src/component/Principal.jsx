@@ -14,7 +14,7 @@ function Principal(props) {
     </div>
     <h1 className='nombre' >Kiro</h1>
     <div className='contenedordesc' >
-      <h1 className='desc' >Programmer and activist for animal rights, always looking to bring technology closer to the world.</h1>
+      <h1 className='desc' >Freelancer programmer, student, vegan and animalist, I am Pansexual and gender fluid, fighting for animal rights and the LGBT community...</h1>
     </div>
       <div className='links' >
         <a target='_blank' href='https://github.com/kirohn24'><FontAwesomeIcon className='iconos' icon={faGithub} /></a>

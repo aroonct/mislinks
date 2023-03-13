@@ -10,7 +10,7 @@ function Principal(props) {
   return (
     <div className='container' >
     <div className='contenedorimg' >
-      <img className='imglogo' src={logo} />
+      <img className='imglogo' alt='kiro' src={logo} />
     </div>
     <h1 className='nombre' >*★*――κıяø――*★*</h1>
     <div className='contenedordesc' >
